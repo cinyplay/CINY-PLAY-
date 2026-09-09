@@ -1,32 +1,3 @@
 #EXTM3U
-
-# ==========================================
-# HINDI MOVIES
-# ==========================================
-
-#EXTINF:-1 tvg-name="Mirzapur: The Movie (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg" group-title="Hindi Movies",Mirzapur: The Movie (2026) - 720p HDTC
-https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mirzapur%20-%20The%20Movie%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HEVC%20HC-ESub.mkv
-
-#EXTINF:-1 tvg-name="Mirzapur: The Movie (2026)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIyOTQwMTgtNjdlMi00YWE4LTg4MTgtZjc2ODI0OGRlOWQzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Baaghi 4 (2025): The Movie (2025)
-https://fs.plus.net.bd/Movies/Hindi/2025/Baaghi 4 %282025%29/Baaghi-4.2025.1080p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv
-
-
-
-# ==========================================
-# BENGALI MOVIES
-# ==========================================
-
-#EXTINF:-1 tvg-name="Rokto (2016)" tvg-logo="https://image.tmdb.org/t/p/w300/phwVQlCqSb4JkA1FgGAO4l0mXUF.jpg" group-title="Bengali Movies",Rokto (2016) - 720p HD
-https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CineFreak.ME%20-%20Rokto%20%282016%29%20Bengali%20720p.mkv
-
-#EXTINF:-1 tvg-name="Rockstar (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg" group-title="Bengali Movies",Rockstar (2026) - 720p WEB-DL
-https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Rockstar%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%20720p%20ESub.mkv
-
-#EXTINF:-1 tvg-name="Taandob (2025)" tvg-logo="https://cinefreak.net/wp-content/uploads/2025/08/Taandob-2025.webp" group-title="Bengali Movies",Taandob (2025) Extended - 720p WEB-DL
-https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Taandob%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%20720p%20ESub.mkv
-
-#EXTINF:-1 tvg-name="Borbaad (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpvptCCkoF85hZL3xd6olSAg8qc.jpg" group-title="Bengali Movies",Borbaad (2025) - 720p WEB-DL
-https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Borbaad%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%20720p%20ESub.mkv
-
-#EXTINF:-1 tvg-name="Toofan (2024)" tvg-logo="https://image.tmdb.org/t/p/w300/5TS3piPf3ZqISbRSrJ8lYeGQvfQ.jpg" group-title="Bengali Movies",Toofan (2024) - 720p WEB-DL
-https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.NET%20-%20Toofan%20%282024%29%20WEB-DL%20Hoichoi%20%5BBengali%5D%20720p.mkv
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3430000,BANDWIDTH=4290000,RESOLUTION=1280x720,FRAME-RATE=60.000,CODECS="avc1.4d4020,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v1a1/mono.m3u8
