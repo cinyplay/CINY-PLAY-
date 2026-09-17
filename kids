@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/TxPUulKGQh.jpg", Motu Patlu
+https://tvx.kbhub.online/Motu-Patlu.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/YkXRQgC4-_.jpg", Tom & Jerry TV
+https://tvx.kbhub.online/Tom-and-Jerry-TV.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg", Bantul The Great
+https://tvx.kbhub.online/Bantul-The-Great.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/XRDlkFnTFb.jpg", Nick Bangla
+http://103.204.43.87:8080/live/1/1/275.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/G2BnUli8dP.png", Sonic Bangla
+http://103.204.43.87:8080/live/1/1/274.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/rmNeL8f6NR.png", Doraemon TV
+https://tvx.kbhub.online/Doraemon-TV.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Oggy and the Cockroaches
+https://tvx.kbhub.online/Oggy-and-the-Cockroaches.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Nicktoons
+https://tvx.kbhub.online/Nicktoons.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Sony Yay
+https://tvx.kbhub.online/Sony-Yay.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/XfqV4B56/png-transparent-mr-bean-illustration-youtube-coloring-book-character-cartoon-mr-bean-television-chil.png", Mr Bean Animated
+https://tvx.kbhub.online/Mr-Bean-Animated.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imglink.cc/cdn/48br-Lpr61.png", Cartoon Network
+https://tvx.kbhub.online/Cartoon-Network.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg", Gopal Bhar TV
+https://tvx.kbhub.online/Gopal-Bhar-TV.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/Ld3Yw0PH/Duronto-TV.png", Duronto Live
+https://tvx.kbhub.online/Duronto-Live.m3u8
